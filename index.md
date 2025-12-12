@@ -137,9 +137,37 @@ This quote captures how listeners personally identified with the narrative of th
 
 
 **Timeline of Recognition**
-Tracy Chapman released *Fast Car* in April 1988. Her performance at the Nelson Mandela 70th Birthday Tribute helped the song become a top-10 hit in the U.S. and abroad. :contentReference[oaicite:4]{index=4}
+Tracy Chapman released *Fast Car* in April 1988. Her performance at the Nelson Mandela 70th Birthday Tribute helped the song become a top-10 hit in the U.S. and abroad. 
 
-In November 2023 — **35 years after the original release** — *Fast Car* won **Song of the Year** at the Country Music Association Awards, making Chapman the first Black songwriter to receive that honor, largely driven by the renewed popularity of a 2023 cover by country artist Luke Combs. :contentReference[oaicite:5]{index=5}
+
+In November 2023 — **35 years after the original release** — *Fast Car* won **Song of the Year** at the Country Music Association Awards, making Chapman the first Black songwriter to receive that honor, largely driven by the renewed popularity of a 2023 cover by country artist Luke Combs. 
+
+<div class="video-container">
+  <iframe 
+    src="https://www.youtube.com/embed/Fr7oYjnt3bM"
+    frameborder="0"
+    allowfullscreen
+  ></iframe>
+</div>
+
+<style>
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 ratio */
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 
 **Fan Reaction / Genius Q&A**
 Chapman recalled:  
