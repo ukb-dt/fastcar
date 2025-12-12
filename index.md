@@ -32,21 +32,22 @@ Your five-phase emotional–prosodic calculus:
 
 $$
 (E, x)
-;\longrightarrow;
+\longrightarrow
 E(t \mid x) + \epsilon
-;\longrightarrow;
+\longrightarrow
 \frac{dE_x}{dt}
-;\longrightarrow;
+\longrightarrow
 \frac{dE_{\bar{x}}}{dt}
-;\pm;
+\;\pm\;
 \sqrt{\frac{d^2E_x}{dt^2}}
-;+;
-\int E_x, dt
-;+;
+\;+\;
+\int E_x\, dt
+\;+\;
 \epsilon_x t
-;+;
+\;+\;
 C_x
 $$
+
 
 
 Perfect.
@@ -62,7 +63,7 @@ Here is **Section A**, in clean Markdown + LaTeX, ready for your `index.md`.
 
 ---
 
-# A — The Five-Phase Emotional–Prosodic Calculus of *Fast Car*
+#  The Five-Phase Emotional–Prosodic Calculus of *Fast Car*
 
 Before the Wembley miracle, before the stadium silence that rewrote her future, Tracy Chapman had already defined the **initial condition** of her artistic system.
 
@@ -153,7 +154,7 @@ long-arc accumulation overtakes initial conditions.
 
 The system has reached a **global maximum**.
 
-# B
+# [B](https://ukb-dt.github.io/tracy-chapman/)
 Here are the **exact factual pieces you asked about** — set up clearly so you can copy/paste into your `index.md` or notes with proper sourcing:
 
 ---
@@ -182,9 +183,7 @@ This quote captures how listeners personally identified with the narrative of th
 
 ### **Putting It Together (if you want a pasted block)**
 
-Copy-ready text:
 
-```
 **Timeline of Recognition**
 Tracy Chapman released *Fast Car* in April 1988. Her performance at the Nelson Mandela 70th Birthday Tribute helped the song become a top-10 hit in the U.S. and abroad. :contentReference[oaicite:4]{index=4}
 
@@ -193,7 +192,7 @@ In November 2023 — **35 years after the original release** — *Fast Car* won 
 **Fan Reaction / Genius Q&A**
 Chapman recalled:  
 > “I had so many people come up to me and say that they felt it was their song and someone told me at one point that they thought I’ve been reading their mail… ‘You seem to know my story’… and people would come up and tell me about a car relationship and some detail that they felt was in the song that represented something that happened in their lives.” :contentReference[oaicite:6]{index=6}
-```
+
 
 ---
 
