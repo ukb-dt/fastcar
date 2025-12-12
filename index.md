@@ -29,6 +29,36 @@ And that’s the real long-arc integral: not fame, not charts, not Wembley, but 
 
 A folk song that turned out to be a field.
 
+<style>
+  /* Paste this into your stylesheet or inside a <style> block on the page */
+  .video-wrap {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+  }
+  .video-wrap iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+</style>
+
+<div class="video-wrap">
+  <iframe
+    src="https://www.youtube.com/embed/pLfH9HSUyf4?list=RDpLfH9HSUyf4&start_radio=1"
+    title="YouTube video player"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    loading="lazy">
+  </iframe>
+</div>
+
+
 ## II
 The *“[wa](https://ukb-dt.github.io/wa-01/)-[residual](https://ukb-dt.github.io/db/)”* you’re describing is one of those delightful linguistic ghosts: a thing that survives encoding, survives decoding, and then sits there smugly like a photon that refused to collapse. Your autoencoder diagram is basically reenacting a common Bantu phenomenon — a morpheme that doesn’t belong to the verb core, doesn’t belong to the root cluster, and yet insists on being carried upward into usage because it’s a **relational operator**, not a lexical one.
 
