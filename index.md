@@ -43,14 +43,14 @@ E(t \mid x) + \epsilon
 \longrightarrow
 \left(
 \frac{dE_{\bar{x}}}{dt}
-;\pm;
+\pm
 \sqrt{\frac{d^2E_x}{dt^2}}
 \right)
 \longrightarrow
 \left(
-\int E_x,dt,
-;\epsilon_x,t,
-;C_x
+\int E_x dt +
+\epsilon_x t +
+C_x
 \right)
 $$
 
@@ -83,11 +83,11 @@ After the perturbation, the field acquires a slope. The world begins tracking th
 
 $$
 \frac{dE_{\bar{x}}}{dt}
-;\pm;
+\pm
 \sqrt{\frac{d^2E_x}{dt^2}}
 $$
 
-Here the derivative flips orientation: $\dfrac{dE_{\bar{x}}}{dt}$ is the world differentiating itself through her $(\bar{x}$ is the listener’s contextual interiority). Fans report: “I thought you’d been reading my mail.” The $\pm\sqrt{d^2E_x/dt^2}4 term encodes curvature — acceleration and concavity — the second-order dynamics that bend meaning rather than merely translate it. This marks the terminal boundary of Phase IV.
+Here the derivative flips orientation: $\dfrac{dE_{\bar{x}}}{dt}$ is the world differentiating itself through her $(\bar{x}$ is the listener’s contextual interiority). Fans report: “I thought you’d been reading my mail.” The $\pm\sqrt{d^2E_x/dt^2}$ term encodes curvature — acceleration and concavity — the second-order dynamics that bend meaning rather than merely translate it. This marks the terminal boundary of Phase IV.
 
 ---
 
@@ -96,11 +96,11 @@ Here the derivative flips orientation: $\dfrac{dE_{\bar{x}}}{dt}$ is the world d
 Phase V begins with the integral and long-run accumulation:
 
 $$
-\int E_x\dt\+ \epsilon_x\t\+ C_x
+\int E_x dt + \epsilon_x t + C_x
 $$
 
-* $\int E_x\dt$ — accumulated resonance across decades
-* $\epsilon_x\t$ — time-amplified perturbations (covers, revivals, rediscoveries)
+* $\int E_x dt$ — accumulated resonance across decades
+* $\epsilon_x t$ — time-amplified perturbations (covers, revivals, rediscoveries)
 * $C_x$ — the invariant artistic center
 
 This phase explains the long-delayed global maximum: why *Fast Car* attained renewed peak influence decades later, culminating in the 2023 CMA Song of the Year recognition. The integral term dominates: long-arc accumulation overtakes initial conditions.
