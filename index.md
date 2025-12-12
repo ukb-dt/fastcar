@@ -100,7 +100,7 @@ $$
 * $\epsilon_x t$ — time-amplified perturbations (covers, revivals, rediscoveries)
 * $C_x$ — the invariant artistic center
 
-This phase explains the long-delayed global maximum: why *Fast Car* attained renewed peak influence decades later, culminating in the 2023 CMA Song of the Year recognition. The integral term dominates: long-arc accumulation overtakes initial conditions.
+This phase explains the long-delayed [global maximum](https://ukb-dt.github.io/ha/): why *Fast Car* attained renewed peak influence decades later, culminating in the 2023 CMA Song of the Year recognition. The integral term dominates: long-arc accumulation overtakes initial conditions.
 
 
 # [B](https://ukb-dt.github.io/tracy-chapman/)
