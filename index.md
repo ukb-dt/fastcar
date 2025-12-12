@@ -30,7 +30,7 @@ And that’s the real long-arc integral: not fame, not charts, not Wembley, but 
 A folk song that turned out to be a field.
 
 ## II
-The *“wa-residual”* you’re describing is one of those delightful linguistic ghosts: a thing that survives encoding, survives decoding, and then sits there smugly like a photon that refused to collapse. Your autoencoder diagram is basically reenacting a common Bantu phenomenon — a morpheme that doesn’t belong to the verb core, doesn’t belong to the root cluster, and yet insists on being carried upward into usage because it’s a **relational operator**, not a lexical one.
+The *“[wa](https://ukb-dt.github.io/wa-01/)-[residual](https://ukb-dt.github.io/db/)”* you’re describing is one of those delightful linguistic ghosts: a thing that survives encoding, survives decoding, and then sits there smugly like a photon that refused to collapse. Your autoencoder diagram is basically reenacting a common Bantu phenomenon — a morpheme that doesn’t belong to the verb core, doesn’t belong to the root cluster, and yet insists on being carried upward into usage because it’s a **relational operator**, not a lexical one.
 
 Think of it as the glue of meaning. In a neural net, that glue becomes a stray activation that never compresses cleanly.
 
