@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-> *Fast Car" was the song that was played on the radio so it was something that turned out to take a significant role in shaping my first record and probably the public perception of me as a singer-songwriter who is writing about stories, songs which tell stories about peoples’ lives and very generally represents the world that I saw it when I was growing up in Cleveland, Ohio, coming from a working-class background. In part everything that a person writes is autobiographical but the songs are directly so and most of them were not, and “Fast Car” wasn’t one that was directly autobiographical. I never had a fast car, it’s just a story about a couple, how they are trying to make a life together and they face challenges. I had so many people come up to me and say that they felt it was their song and someone told me at one point that they thought I’ve been reading their mail, they were saying, ‘You seem to know my story,’ and people would come up and tell me about a car relationship and some detail that they felt was in the song that represented something that happened in their lives.*       
+> *"Fast Car" was the song that was played on the radio so it was something that turned out to take a significant role in shaping my first record and probably the public perception of me as a singer-songwriter who is writing about stories, songs which tell stories about peoples’ lives and very generally represents the world that I saw it when I was growing up in Cleveland, Ohio, coming from a working-class background. In part everything that a person writes is autobiographical but the songs are directly so and most of them were not, and “Fast Car” wasn’t one that was directly autobiographical. I never had a fast car, it’s just a story about a couple, how they are trying to make a life together and they face challenges. I had so many people come up to me and say that they felt it was their song and someone told me at one point that they thought I’ve been reading their mail, they were saying, ‘You seem to know my story,’ and people would come up and tell me about a car relationship and some detail that they felt was in the song that represented something that happened in their lives.*       
 > -- [Tracy Chapman](https://genius.com/Tracy-chapman-fast-car-lyrics)
 
 > *Tracy Chapman was a hardened veteran of Boston coffeehouse gigs (she once got a demo-tape rejection letter suggesting she tune her guitar) when a classmate at Tufts University told his music-publisher dad to check her out. Soon after, she made her 1988 debut, featuring this haunting rumination on escape. “Fast Car” won a Grammy, setting Chapman’s career in motion.*      
@@ -27,10 +27,7 @@
 > -- [New York Times](https://www.nytimes.com/2023/11/09/arts/music/tracy-chapman-cma-awards-fast-car.html)
 
 # [A](https://genius.com/Tracy-chapman-fast-car-lyrics)
-
-Here is **Part A** — the five-phase emotional–prosodic calculus of *Fast Car*, written in tidy Markdown + LaTeX for gh-pages.
-
----
+ 
 
 ## **A. The Five-Phase Emotional–Prosodic Calculus of *Fast Car***
 
@@ -171,12 +168,8 @@ In November 2023 — **35 years after the original release** — *Fast Car* won 
 
 **Fan Reaction / Genius Q&A**
 Chapman recalled:  
-> “I had so many people come up to me and say that they felt it was their song and someone told me at one point that they thought I’ve been reading their mail… ‘You seem to know my story’… and people would come up and tell me about a car relationship and some detail that they felt was in the song that represented something that happened in their lives.” :contentReference[oaicite:6]{index=6}
+> “I had so many people come up to me and say that they felt it was their song and someone told me at one point that they thought I’ve been reading their mail… ‘You seem to know my story’… and people would come up and tell me about a car relationship and some detail that they felt was in the song that represented something that happened in their lives.”  
 
-
----
-
-If you want, I can also pull the **exact Genius.com page link** for the Q&A quote and/or format this into a captioned block for your *.md*, with proper citation markup (like footnotes) for gh-pages. Just tell me which style you prefer!
 
 [1]: https://en.wikipedia.org/wiki/Fast_Car?utm_source=chatgpt.com "Fast Car"
 [2]: https://www.theguardian.com/music/2023/nov/09/tracy-chapman-fast-car-cma-winner?utm_source=chatgpt.com "Tracy Chapman's Fast Car wins country song of the year"
