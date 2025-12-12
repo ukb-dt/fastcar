@@ -192,9 +192,4 @@ If you want, I can also pull the **exact Genius.com page link** for the Q&A quot
 [1]: https://en.wikipedia.org/wiki/Fast_Car?utm_source=chatgpt.com "Fast Car"
 [2]: https://www.theguardian.com/music/2023/nov/09/tracy-chapman-fast-car-cma-winner?utm_source=chatgpt.com "Tracy Chapman's Fast Car wins country song of the year"
 [3]: https://www.about-tracy-chapman.net/tracy-chapman-fast-car-meaning-fast-car-lyrics-fast-car-videos/?utm_source=chatgpt.com "Fast Car by Tracy Chapman: Meaning of Fast Car and much ..."
-
-# C
-# D
-# E
-
  
