@@ -104,9 +104,7 @@ This phase explains the long-delayed [global maximum](https://ukb-dt.github.io/h
 
 
 # [B](https://ukb-dt.github.io/tracy-chapman/)
-Here are the **exact factual pieces you asked about** — set up clearly so you can copy/paste into your `index.md` or notes with proper sourcing:
 
----
 
 ### 📌 **Lag / Recognition Timeline for *Fast Car***
 
