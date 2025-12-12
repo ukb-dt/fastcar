@@ -28,14 +28,11 @@
 
 # [A](https://genius.com/Tracy-chapman-fast-car-lyrics)
 
-Here you go — **Part A rewritten cleanly**, with your **corrected pentad**, with the **± term as the terminal boundary of Phase IV**, and **Phase V beginning at the integral**.
-I preserve your tone, structure, and purpose — but correct the mathematics so the phase boundaries match your actual calculus.
-
-No hallucinations. No structural drift. No plus-sign chaos.
+Here is **Part A** — the five-phase emotional–prosodic calculus of *Fast Car*, written in tidy Markdown + LaTeX for gh-pages.
 
 ---
 
-# **A. The Five-Phase Emotional–Prosodic Calculus of *Fast Car***
+## **A. The Five-Phase Emotional–Prosodic Calculus of *Fast Car***
 
 $$
 (E, x)
@@ -51,50 +48,38 @@ E(t \mid x) + \epsilon
 \right)
 \longrightarrow
 \left(
-\int E_x, dt,;
-\epsilon_x t,;
-C_x
+\int E_x,dt,
+;\epsilon_x,t,
+;C_x
 \right)
 $$
 
+---
 
-## **Phase I — Initialization: ((E, x))**
+### Phase I — Initialization: $(E, x)$
 
 Before Wembley, before the shock event that rewrote her future, Chapman’s artistic system lived inside the ordered pair:
 
-* **E** — the emotional field encoded in *Fast Car*
-* **x** — the contextual frame: working-class biography, folk-soul idiom, late-80s precarity, and the April 1988 album release.
+* $E$ — the emotional field encoded in *Fast Car*
+* $x$ — the contextual frame: working-class biography, folk-soul idiom, and the April 1988 album release
 
-The system is **defined but dormant**.
-A potential field awaiting activation.
-
----
-
-## **Phase II — Perturbation: (E(t \mid x) + \epsilon)**
-
-June 11, 1988 — The Mandela Tribute at Wembley.
-The perturbation $\epsilon$ is accidental, unscripted, catalytic.
-
-A forced substitution set: no band, no staging, no buffer — only guitar, voice, and 600 million global viewers.
-
-This is the **minimal shock** that displaces the conditional emotional trajectory (E(t\mid x)) off its static surface.
-The system begins to move.
+The system is defined but dormant: a potential field awaiting activation.
 
 ---
 
-## **Phase III — Directed Motion: $\frac{dE_x}{dt}$**
+### Phase II — Perturbation: $E(t\mid x) + \epsilon$
 
-After perturbation, the field acquires a slope.
-The world begins tracking the *rate* at which her emotional signal propagates.
-
-This derivative is her **early career unfolding**:
-visibility, resonance, recognition, identification.
-
-Not decline — **gradient descent** in the sense of directed cultural motion.
+June 11, 1988 — the Mandela Tribute at Wembley. The perturbation $\epsilon$ is accidental and catalytic: no band, no staging, only guitar, voice, and a global audience. This minimal shock displaces the conditional emotional trajectory $E(t\mid x)$ and sets the system in motion.
 
 ---
 
-## **Phase IV — Reflective Dual + Curvature Boundary**
+### Phase III — Directed Motion: $\dfrac{dE_x}{dt}$
+
+After the perturbation, the field acquires a slope. The world begins tracking the rate at which her emotional signal propagates. This derivative is her early career unfolding: visibility, resonance, recognition, and identification. This is directed motion through the cultural attention landscape.
+
+---
+
+### Phase IV — Reflective Dual and Curvature Boundary
 
 $$
 \frac{dE_{\bar{x}}}{dt}
@@ -102,48 +87,24 @@ $$
 \sqrt{\frac{d^2E_x}{dt^2}}
 $$
 
-Here, the derivative flips orientation.
-
-* $\frac{dE_{\bar{x}}}{dt}$ is the world differentiating **itself** through her.
-  $(\bar{x}$ = the listener’s contextual interiority.)
-
-Fans tell her: *“I thought you’d been reading my mail.”*
-
-The ± curvature term
-
-$$
-\pm\sqrt{\frac{d^2E_x}{dt^2}}
-$$
-
-closes Phase IV by encoding acceleration, concavity, and second-order emotional dynamics — the ways meaning begins to bend, not merely move.
-
-This is the **boundary** of the fourth phase.
+Here the derivative flips orientation: $\dfrac{dE_{\bar{x}}}{dt}$ is the world differentiating itself through her $(\bar{x}$ is the listener’s contextual interiority). Fans report: “I thought you’d been reading my mail.” The $\pm\sqrt{d^2E_x/dt^2}4 term encodes curvature — acceleration and concavity — the second-order dynamics that bend meaning rather than merely translate it. This marks the terminal boundary of Phase IV.
 
 ---
 
-## **Phase V — Integral-Dominant Long-Arc Accumulation**
+### Phase V — Integral-Dominant Long-Arc Accumulation
 
-Phase V **begins with the integral**, not with curvature.
-It is the asymptotic, long-run, slow-growing total:
+Phase V begins with the integral and long-run accumulation:
 
 $$
-\left(
-\int E_x, dt,;
-\epsilon_x t,;
-C_x
-\right)
+\int E_x\dt\+ \epsilon_x\t\+ C_x
 $$
 
-Where:
+* $\int E_x\dt$ — accumulated resonance across decades
+* $\epsilon_x\t$ — time-amplified perturbations (covers, revivals, rediscoveries)
+* $C_x$ — the invariant artistic center
 
-* **$\int E_x, dt$** — accumulated resonance across decades
-* **$\epsilon_x t$** — time-amplified perturbations (covers, revivals, rediscoveries)
-* **$C_x$** — her invariant moral and artistic center
+This phase explains the long-delayed global maximum: why *Fast Car* attained renewed peak influence decades later, culminating in the 2023 CMA Song of the Year recognition. The integral term dominates: long-arc accumulation overtakes initial conditions.
 
-This phase explains the late, enormous global maximum — why *Fast Car* achieved **35-year delayed peak influence**, including the 2023 CMA **Song of the Year** (first Black songwriter in the award’s history).
-
-The **integral dominates**:
-long-arc accumulation overtakes initial conditions.
 
 # [B](https://ukb-dt.github.io/tracy-chapman/)
 Here are the **exact factual pieces you asked about** — set up clearly so you can copy/paste into your `index.md` or notes with proper sourcing:
