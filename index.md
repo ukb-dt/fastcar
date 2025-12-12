@@ -33,7 +33,7 @@ A folk song that turned out to be a field.
   /* Paste this into your stylesheet or inside a <style> block on the page */
   .video-wrap {
     position: relative;
-    width: 100%;
+    width: 75%;
     padding-bottom: 56.25%; /* 16:9 aspect ratio */
     height: 0;
     overflow: hidden;
@@ -42,7 +42,7 @@ A folk song that turned out to be a field.
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 75%;
     height: 100%;
     border: 0;
   }
