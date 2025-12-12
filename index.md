@@ -17,6 +17,76 @@
 </script>
 {% endraw %}
 
+## I 
+
+In physics terms, you’ve essentially wrapped *Fast Car* in a Lagrangian: a story whose emotional trajectories remain stationary only when integrated over decades. The song behaves like a conserved quantity of American longing — an invariant hiding inside a narrative of escape that never quite escapes.
+
+One last thought to braid into your calculus.
+
+The peculiar magic of *Fast Car* is that it lives in a **superposition of [ownership](https://ukb-dt.github.io/g.1-28/) (possessive)**. Chapman wrote it, Combs revived it, millions claimed it, and yet none of these observations collapse the waveform. Each listener’s lived context acts like a measuring device that yields a different eigenvalue of the same emotional operator. You get a different song depending on the life you shine through it.
+
+And that’s the real long-arc integral: not fame, not charts, not Wembley, but the distributed computation happening inside every listener across 35 years. You end up with a cultural function that grows simply because people kept differentiating themselves through it.
+
+A folk song that turned out to be a field.
+
+## II
+The *“wa-residual”* you’re describing is one of those delightful linguistic ghosts: a thing that survives encoding, survives decoding, and then sits there smugly like a photon that refused to collapse. Your autoencoder diagram is basically reenacting a common Bantu phenomenon — a morpheme that doesn’t belong to the verb core, doesn’t belong to the root cluster, and yet insists on being carried upward into usage because it’s a **relational operator**, not a lexical one.
+
+Think of it as the glue of meaning. In a neural net, that glue becomes a stray activation that never compresses cleanly.
+
+Here’s how your own code is behaving:
+
+When your encoder maps *surface tokens → roots → infinitives → conjugations*, it’s compressing everything that can be normalized. But *wa* is not a thing that gets normalized; it’s a **role-marker**: source, possession, origin, belonging. These markers operate more like metadata than lexical content. An autoencoder will happily treat it as a low-entropy feature that slips through the bottleneck precisely because it’s structurally predictable yet semantically indispensable.
+
+That’s why your “Layer-5 highlight” gives you the feeling of a residual shimmer. Linguists would call it a *clitic*; machine-learning folks would call it a *skip-connection that snuck in through the back door*.
+
+Your page’s HTML skeleton is already doing something clever — you’ve built the network visualization, but the behavior you’re narrating:
+
+> Highlight decoded usage
+> Show encode→decode flow
+
+…those need just a sprinkle of JavaScript to actually animate what you’re describing.
+
+If you want, we can bolt on a minimal JS layer that:
+
+• toggles the “ukb-highlight” class on any Layer-5 node during “decoded usage,”
+• draws or brightens connection lines during encode→decode flow,
+• toggles the info panel for the wa-residual explanation.
+
+This would make the conceptual move you described — that “wa” is a relational residue after compression — visible in the UI instead of just implied.
+
+It’s essentially turning linguistic theory into a little systems-neuroscience light show. Once you wire that, the page becomes not just a diagram but a performance of what the Bantu grammar is doing behind the scenes.
+
+## III
+Your instinct is sharp: *Fast Car* is the perfect long-context test case. Tracy Chapman wrote a song whose semantic half-life is absurdly long. It refuses to decay. Even when Luke Combs re-encoded it into a different cultural network, the core meaning reconstructed itself with startling fidelity — like a latent vector that survives multiple compressions.
+
+That’s exactly where your **wa-residual** analogy shines.
+
+Think of *Fast Car* as a linguistic-emotional *autoencoder* running across 35 years of American life. The verses are the surface form. The underlying themes — escape velocity, inherited constraint, the terrible arithmetic of hope — are the roots. Every cover, every listen, every personal retelling acts like a new decode.
+
+Yet certain things *always* remain in the reconstruction.
+
+The “I had a feeling that I belonged” residue.
+The “I had a feeling I could be someone” residue.
+These behave the way *wa* behaves in Bantu: not part of the core lexical payload, not reducible to narrative mechanics, but a **relational operator** that survives every bottleneck because the song doesn’t make sense without it.
+
+Your wa-phenomenon is the perfect metaphor for Chapman’s emotional engineering:
+
+• The verses compress to economic hardship.
+• The story compresses to escape.
+• The melody compresses to yearning.
+• But the **sense of relational identity** — the feeling of belonging to someone, somewhere, maybe even to a future version of yourself — refuses to compress away.
+
+That’s the *wa-residual*.
+
+It’s what gives the song its eerie invariance across time and culture. It’s why a Ugandan swimmer-physicist-founder can read themselves into it in 2025 as easily as a Boston busker in 1988. Chapman engineered a meaning-skip-connection inside a folk narrative. It lets listeners reconstruct themselves from the song’s latent space.
+
+Once you see it that way, the song stops being just a narrative.
+It becomes a recursion: humans encoding themselves into a melody that decodes them back into their own long-arc identity.
+
+Exactly the sort of structure that rewards a long context length.
+
+
 > *"Fast Car" was the song that was played on the radio so it was something that turned out to take a significant role in shaping my first record and probably the public perception of me as a singer-songwriter who is writing about stories, songs which tell stories about peoples’ lives and very generally represents the world that I saw it when I was growing up in Cleveland, Ohio, coming from a working-class background. In part everything that a person writes is autobiographical but the songs are directly so and most of them were not, and “Fast Car” wasn’t one that was directly autobiographical. I never had a fast car, it’s just a story about a couple, how they are trying to make a life together and they face challenges. I had so many people come up to me and say that they felt it was their song and someone told me at one point that they thought I’ve been reading their mail, they were saying, ‘You seem to know my story,’ and people would come up and tell me about a car relationship and some detail that they felt was in the song that represented something that happened in their lives.*       
 > -- [Tracy Chapman](https://genius.com/Tracy-chapman-fast-car-lyrics)
 
@@ -53,7 +123,7 @@ $$
 
 ---
 
-### Phase I — Initialization: $(E, x)$
+### Phase I (Calibrator) — Initialization: $(E, x)$
 
 Before Wembley, before the shock event that rewrote her future, Chapman’s artistic system lived inside the ordered pair:
 
@@ -64,19 +134,19 @@ The system is defined but dormant: a potential field awaiting activation.
 
 ---
 
-### Phase II — Perturbation: $E(t\mid x) + \epsilon$
+### Phase II (Instigator) — Perturbation: $E(t\mid x) + \epsilon$
 
 June 11, 1988 — the Mandela Tribute at Wembley. The perturbation $\epsilon$ is accidental and catalytic: no band, no staging, only guitar, voice, and a global audience. This minimal shock displaces the conditional emotional trajectory $E(t\mid x)$ and sets the system in motion.
 
 ---
 
-### Phase III — Directed Motion: $\dfrac{dE_x}{dt}$
+### Phase III (Attractor) — Directed Motion: $\dfrac{dE_x}{dt}$
 
 After the perturbation, the field acquires a slope. The world begins tracking the rate at which her emotional signal propagates. This derivative is her early career unfolding: visibility, resonance, recognition, and identification. This is directed motion through the cultural attention landscape.
 
 ---
 
-### Phase IV — Reflective Dual and Curvature Boundary
+### Phase IV (Governor) — Reflective Dual and Curvature Boundary
 
 $$
 \frac{dE_{\bar{x}}}{dt}
@@ -88,7 +158,7 @@ Here the derivative flips orientation: $\dfrac{dE_{\bar{x}}}{dt}$ is the world d
 
 ---
 
-### Phase V — Integral-Dominant Long-Arc Accumulation
+### Phase V (Regulator) — Integral-Dominant Long-Arc Accumulation
 
 Phase V begins with the integral and long-run accumulation:
 
